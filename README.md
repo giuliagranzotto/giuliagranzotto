@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giuliagranzotto
 - 👀 I’m interested in programming and AI
-- 🌱 I’m currently learning full-stack development
 - 📫 How to reach me: www.linkedin.com/in/giulia-granzotto-387aba218
 - ⚡ Fun fact: I started as a foreign language passionate and ended up as a programming language enthusiast
 
